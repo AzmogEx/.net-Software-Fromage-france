@@ -20,7 +20,7 @@ Ce projet est un logiciel développé en .NET permettant de répertorier et d'af
 1. Cloner le dépôt :
 
    ```bash
-   git clone https://github.com/AzmogEx/gestion-fromages-france.git
+   git clone https://github.com/AzmogEx/.net-Software-Fromage-france.git
    ```
 2. Ouvrir le projet avec Visual Studio
 3. Restaurer les packages NuGet
